@@ -15,3 +15,15 @@ if(true){
 }
 
 //Scope level and mini hoisting 
+function one(){
+    const username ="vats"
+    function two (){
+        const website = "youtube"
+        console.log(username);
+    }
+    console.log(website);
+    
+    two ()
+}
+//here an error will be thrown since website is defined within the second function
+ 
