@@ -27,3 +27,4 @@ function one(){
 }
 //here an error will be thrown since website is defined within the second function
  
+//REFER TO EXECUTION CONTEXT AND LEXICAL ENVIRONMENT AS WELL

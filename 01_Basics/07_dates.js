@@ -7,4 +7,4 @@ console.log(typeof myDate);
 let myCreatedDate = new Date(2024, 0, 23, 5, 3);
 console.log(myCreatedDate.toDateString());
 
-let myCreatedDate = new Date("2024-01-14")
+let newCreatedDate = new Date("2024-01-14")
