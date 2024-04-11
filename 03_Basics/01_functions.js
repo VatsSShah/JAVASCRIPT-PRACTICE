@@ -33,3 +33,5 @@ const user={
 function handleObject(anyObject){
     console.log(`username is ${anyObject.username} and price is ${anyObject.price}`);
 }
+
+//Callback Function
